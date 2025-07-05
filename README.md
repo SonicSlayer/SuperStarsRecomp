@@ -1,4 +1,4 @@
-# SuperStarsRecomp
+# SuperStarsDecomp
 A work in progress decompiler of the Sonic Superstars , based on the Nintendo Switch version of the game
 Game engine: Unity
 
